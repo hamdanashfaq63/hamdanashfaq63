@@ -23,7 +23,7 @@ Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Die
 |---|---|---|
 | [**Finding Order in Disorder**](https://github.com/hamdanashfaq63/DA401) | Detects local 2- to 6-fold symmetry in 4D-STEM patterns of metallic glass, with synthetic validation and a characterization of where rule-based methods break | Python, scikit-image, NumPy, pytest |
 | [**PJM Load Forecast Accuracy**](https://github.com/hamdanashfaq63/AEP_Energy_Project) | Client project for AEP Energy measuring how PJM demand forecast error changes with horizon, time of week and weather | R, tidyverse, Python, pandas |
-| [**Volunteer Delivery**](https://github.com/safal-uni/CS349-Volunteer-Delivery) | Team-built mobile app that coordinates food pantry deliveries, with GPS tracking, push notifications and SMS | React Native, Expo, Supabase |
+| **Volunteer Delivery** (team repo, private) | Team-built mobile app that coordinates food pantry deliveries, with GPS tracking, push notifications and SMS | React Native, Expo, Supabase |
 
 ### Tools
 
