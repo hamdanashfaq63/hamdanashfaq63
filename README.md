@@ -1,6 +1,6 @@
 ## Hamdan Ashfaq
 
-PhD student in Computational Science at **San Diego State University** and **UC Irvine**. I build machine learning methods for materials characterization, mostly electron microscopy: finding hidden order in 4D-STEM diffraction data and classifying microstructures from SEM images.
+PhD student in Computational Science at **UC Irvine** and **San Diego State University**. I build machine learning methods for materials characterization, mostly electron microscopy: finding hidden order in 4D-STEM diffraction data and classifying microstructures from SEM images.
 
 Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Diego.
 
