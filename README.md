@@ -1,6 +1,6 @@
 ## Hamdan Ashfaq
 
-PhD student in Computational Science at **UC Irvine** and **San Diego State University**. I build machine learning methods for materials characterization, mostly electron microscopy: finding hidden order in 4D-STEM diffraction data and classifying microstructures from SEM images.
+PhD student in Computational Science at **UC Irvine** and **San Diego State University**. I work on machine learning for materials. My PhD research is on machine-learned interatomic potentials trained on DFT data. Before that I worked on electron microscopy: finding hidden order in 4D-STEM diffraction data and classifying microstructures from SEM images.
 
 Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Diego.
 
@@ -21,6 +21,7 @@ Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Die
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Fine-Tuning MACE-MP-0 for MoS₂**](https://github.com/hamdanashfaq63/mos2-mace-finetuning) | Fine-tunes a foundation interatomic potential on my own DFT data for monolayer MoS₂ and tests it against held-out MD, strain, sulfur vacancies and a from-scratch baseline | Python, MACE, ASE, GPAW, PyTorch |
 | [**Finding Order in Disorder**](https://github.com/hamdanashfaq63/DA401) | Detects local 2- to 6-fold symmetry in 4D-STEM patterns of metallic glass, with synthetic validation and a characterization of where rule-based methods break | Python, scikit-image, NumPy, pytest |
 | [**PJM Load Forecast Accuracy**](https://github.com/hamdanashfaq63/AEP_Energy_Project) | Client project for AEP Energy measuring how PJM demand forecast error changes with horizon, time of week and weather | R, tidyverse, Python, pandas |
 | [**FPN Delivery**](https://github.com/hamdanashfaq63/volunteer-delivery-app) | Team-built mobile app that connects homebound food pantry clients with volunteer drivers, with live delivery tracking, SMS sign in and an admin dashboard | React Native, Expo, Supabase |
@@ -28,6 +29,7 @@ Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Die
 ### Tools
 
 * **ML:** PyTorch, TensorFlow, CUDA, multi-GPU training, scikit-learn, CNNs (ResNet, U-Net++), self-supervised learning (SimSiam)
+* **Atomistic modeling:** DFT (GPAW, PBE), machine-learned interatomic potentials (MACE), ASE, molecular dynamics
 * **Scientific computing:** NumPy, SciPy, scikit-image, 4D-STEM simulation, HPC at the Ohio Supercomputer Center
 * **Data and apps:** pandas, R and the tidyverse, React Native, Supabase
 
