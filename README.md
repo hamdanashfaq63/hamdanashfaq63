@@ -6,6 +6,9 @@ Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Die
 
 ### Research
 
+**San Diego State University** · PhD research, Dogan group
+* Machine-learned interatomic potentials and DFT calculations. A first project, fine-tuning MACE-MP-0 for monolayer MoS₂, is [here](https://github.com/hamdanashfaq63/mos2-mace-finetuning).
+
 **The Ohio State University, Center for Electron Microscopy and Analysis (CEMAS)** · Visiting Fellow, Hwang Lab
 * 4D-STEM multislice simulations in collaboration with Sandia National Laboratories.
 * Self-supervised learning on 4D-STEM nanodiffraction patterns of amorphous semiconductors (Intel-funded SURE fellowship). Poster at Microscopy & Microanalysis 2024.
