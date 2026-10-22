@@ -1,6 +1,6 @@
 ## Hamdan Ashfaq
 
-PhD student in Computational Science at **UC Irvine** and **San Diego State University**. I work on machine learning for materials. My PhD research is on machine-learned interatomic potentials trained on DFT data. Before that I worked on electron microscopy: finding hidden order in 4D-STEM diffraction data and classifying microstructures from SEM images.
+PhD student in Computational Science at **UC Irvine** and **San Diego State University**. I work on machine learning for materials. My research is on machine-learned interatomic potentials trained on DFT data. Before that I worked on electron microscopy: finding hidden order in 4D-STEM diffraction data and classifying microstructures from SEM images.
 
 Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Diego.
 
