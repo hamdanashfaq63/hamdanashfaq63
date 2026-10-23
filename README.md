@@ -18,7 +18,7 @@ Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Die
 * ResNet-50 and U-Net++ models that classify Sn-58Bi solder microstructures from SEM images with 90.1% accuracy.
 
 **Denison University** · Senior capstone
-* Automated fold symmetry detection across 65,536 nanodiffraction patterns of CuZr metallic glass. Best Senior Capstone Project, Department of Data Analytics.
+* Automated fold symmetry detection across a 256 × 256 scan of CuZr metallic glass nanodiffraction patterns. Best Senior Capstone Project, Department of Data Analytics.
 
 ### Projects
 
