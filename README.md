@@ -4,6 +4,8 @@ PhD student in Computational Science at **UC Irvine** and **San Diego State Univ
 
 Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Diego.
 
+[Resume](Hamdan_Ashfaq_Resume.pdf) · [CV](Hamdan_Ashfaq_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=6gjNLL8AAAAJ) · [LinkedIn](https://linkedin.com/in/hamdanashfaq) · hashfaq1@uci.edu
+
 ### Research
 
 **San Diego State University** · PhD research, Dogan group
@@ -11,7 +13,7 @@ Advised by Prof. Mehmet Dogan (SDSU) and Prof. Ruqian Wu (UCI). Based in San Die
 
 **The Ohio State University, Center for Electron Microscopy and Analysis (CEMAS)** · Visiting Fellow, Hwang Lab
 * 4D-STEM multislice simulations in collaboration with Sandia National Laboratories.
-* Self-supervised learning on 4D-STEM nanodiffraction patterns of amorphous semiconductors (Intel-funded SURE fellowship). Poster at Microscopy & Microanalysis 2024.
+* Self-supervised and unsupervised learning (K-means, t-SNE) on 4D-STEM nanodiffraction patterns of amorphous semiconductors (Intel-funded SURE fellowship). Poster at Microscopy & Microanalysis 2024.
 * Co-author on a manuscript under review at *Acta Materialia*.
 
 **Purdue University** · Summer Undergraduate Research Fellow, Chawla group
